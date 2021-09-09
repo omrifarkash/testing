@@ -1,0 +1,8 @@
+envs {
+  envsCloud = [
+    {
+      uuid = "03c073e6-d95f-4218-9c6c-16c7b81bfff1"
+      folderName = "myEnvBitches"
+    },
+  ]
+}
